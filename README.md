@@ -2,9 +2,9 @@
 
 こんにちは Xeltica です
 
-得意分野は Web フロントエンドですが、バックエンドをやったり、ネイティブアプリを作ったり、ゲームを作ったりもしています
+本業のWebエンジニア(FE/BE)の傍ら、ウェブアプリ、ネイティブアプリ、ゲームなどを作ります
 
-得意言語は C#, TypeScript などですが他の言語も必要であれば割とやります
+得意言語は C#, TypeScript など
 
 ## コラボレーター
 
@@ -12,9 +12,8 @@
 
 ## 主なプロジェクト
 
-- [PaperStock](https://github.com/Xeltica/PaperStock) - 社内向け self-hosted Wiki エンジン
+- [DotFeather](https://github.com/Xeltica/DotFeather) - 2D 特化型 C# / .NET Core 用ゲームエンジン
+- [Misskey.NET](https://github.com/Xeltica/Misskey.NET) - .NET Standard 2.1 を対象とする Misskey API ラッパーライブラリ
 - [Groundpolis](https://github.com/Groundpolis/Groundpolis) - Misskey をフォークした SNS
 - [ひとりすきー](https://github.com/Xeltica/hitorisskey) - 独り言や匿名コミュニケーションに特化した SNS
-- [DotFeather](https://github.com/Xeltica/DotFeather) - 2D 特化型 C# / .NET Core 用ゲームエンジン
-- [Ebister](https://github.com/Xeltica/Ebister) - プログラミング言語とその処理系
-- [BotBone](https://github.com/Xeltica/BotBone) - 多くのソーシャルメディアに対応した Bot 開発フレームワーク
+- [Xeltica UI](https://github.com/Xeltica/ui) - Xeltica デザインシステムを適用したCSSフレームワーク
