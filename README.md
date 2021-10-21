@@ -1,8 +1,6 @@
 # Xeltica
 
-こんにちは Xeltica です
-
-本業のWebエンジニア(FE/BE)の傍ら、ウェブアプリ、ネイティブアプリ、ゲームなどを作ります
+こんにちは Xeltica です。本業はWebアプリのフロントエンドエンジニアです。ウェブアプリ、ネイティブアプリ、ゲームなどを作ります
 
 得意言語は C#, TypeScript など
 
@@ -13,8 +11,6 @@
 ## 主なプロジェクト
 
 - [DotFeather](https://github.com/Xeltica/DotFeather) - 2D 特化型 C# / .NET Core 用ゲームエンジン
-- [Misskey.NET](https://github.com/Xeltica/Misskey.NET) - .NET Standard 2.1 を対象とする Misskey API ラッパーライブラリ
-- [ミス廃あらーと](https://github.com/Xeltica/misshaialert) - ツイ廃あらーと、ドン廃あらーとにインスパイアされた、Misskeyユーザー向け統計ツール
 - [Groundpolis](https://github.com/Groundpolis/Groundpolis) - Misskey をフォークした SNS
+- [Misskey Tools](https://github.com/Xeltica/misshaialert) - Misskeyユーザー向け統合型アカウント管理ツール
 - [ひとりすきー](https://github.com/Xeltica/hitorisskey) - 独り言や匿名コミュニケーションに特化した SNS
-- [Xeltica UI](https://github.com/Xeltica/ui) - Xeltica デザインシステムを適用したCSSフレームワーク
